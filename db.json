@@ -72,13 +72,13 @@
         },
 
         {
-            "content": "Liczy się chęć...",
+            "content": "Liczą się chęci...",
             "imageURL": "smieszne_koty3.jpg"
         },
 
         {
-            "content": "Zadanie bojowe",
-            "imageURL": "Zrób 15 pajacyków"
+            "content": "Zadanie bojowe: Zrób 15 pajacyków",
+            "imageURL": ""
         },
 
         {
@@ -87,8 +87,8 @@
         },
 
         {
-            "content": "Zadanie bojowe",
-            "imageURL": "Dobrze się dziś wyśpij ;P"
+            "content": "Zadanie bojowe: Dobrze się dziś wyśpij",
+            "imageURL": ""
         },
 
         {
@@ -117,8 +117,8 @@
         },
 
         {
-            "content": "Zadanie bojowe",
-            "imageURL": "Spędź czas miło z rodzinką :3"
+            "content": "Zadanie bojowe: Spędź czas miło z rodzinką :3",
+            "imageURL": ""
         }
         
     ]
